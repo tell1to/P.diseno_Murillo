@@ -11,6 +11,8 @@ import { ButtonModule } from 'primeng/button';
 import { HomeComponent } from './components/home/home.component';
 import { AvatarModule } from 'primeng/avatar';
 import { ToolbarModule } from 'primeng/toolbar';
+import { GalleryComponent } from './components/gallery/gallery.component';
+import { FormsNGComponent } from './components/forms-ng/forms-ng.component';
 
 
 
@@ -22,6 +24,8 @@ import { ToolbarModule } from 'primeng/toolbar';
     Grid2Component,
     CardsComponent,
     HomeComponent,
+    GalleryComponent,
+    FormsNGComponent,
 
   ],
   imports: [
